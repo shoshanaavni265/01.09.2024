@@ -12,7 +12,10 @@ y: int = input("what is y")
 
 print (y)
 
-
+z: int =1
+print (z)
+result: int = x * y + z
+print (result)
 
 
 #END
